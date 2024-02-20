@@ -20,7 +20,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n   \"name\": \"Toko Tester QA\",\r\n   \"email\": \"testerQA111@sample.com\",\r\n   \"password\": \"123adsfadf@111\"\r\n}",
+							"raw": "{\r\n   \"name\": \"Toko Tester QA \",\r\n   \"email\": \"testerQA111@sample.com\",\r\n   \"password\": \"123adsfadf@111\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -1162,7 +1162,7 @@
 									"//pm.collectionVariables.set(\"description\", respon.data.units.description);\r",
 									"\r",
 									"var respon = pm.response.json();\r",
-									"pm.collectionVariables.set(\"unitID\", respon.data.unitId);\r",
+									"pm.collectionVariables.set(\"unitID\", respon.data.unitID);\r",
 									"pm.collectionVariables.set(\"name\", respon.data.name);"
 								],
 								"type": "text/javascript"
@@ -2873,10 +2873,6 @@
 			"value": ""
 		},
 		{
-			"key": "accessToken",
-			"value": ""
-		},
-		{
 			"key": "categoryID",
 			"value": ""
 		},
@@ -2885,15 +2881,11 @@
 			"value": ""
 		},
 		{
-			"key": "userID",
-			"value": ""
-		},
-		{
-			"key": "username",
-			"value": ""
-		},
-		{
 			"key": "unitID",
+			"value": ""
+		},
+		{
+			"key": "accessToken",
 			"value": ""
 		}
 	]
