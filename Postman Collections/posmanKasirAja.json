@@ -2853,27 +2853,27 @@
 			"type": "string"
 		},
 		{
-			"key": "customerID",
-			"value": ""
-		},
-		{
-			"key": "phone",
-			"value": ""
-		},
-		{
-			"key": "address",
-			"value": ""
-		},
-		{
-			"key": "description",
-			"value": ""
-		},
-		{
 			"key": "categoryID",
 			"value": ""
 		},
 		{
 			"key": "refreshToken",
+			"value": ""
+		},
+		{
+			"key": "accessToken",
+			"value": ""
+		},
+		{
+			"key": "userID",
+			"value": ""
+		},
+		{
+			"key": "username",
+			"value": ""
+		},
+		{
+			"key": "unitID",
 			"value": ""
 		}
 	]
