@@ -2857,10 +2857,6 @@
 			"value": ""
 		},
 		{
-			"key": "name",
-			"value": ""
-		},
-		{
 			"key": "phone",
 			"value": ""
 		},
@@ -2878,14 +2874,6 @@
 		},
 		{
 			"key": "refreshToken",
-			"value": ""
-		},
-		{
-			"key": "unitID",
-			"value": ""
-		},
-		{
-			"key": "accessToken",
 			"value": ""
 		}
 	]
